@@ -7,10 +7,12 @@ This is a simple yet elegant weather app built with Kotlin and Jetpack Compose. 
 - 🎨 Dynamic theming based on the current system theme.
 
 ## 📸 Screenshots
-Dark Mode
+
+### Dark Mode
 <img alt="Dark Mode Screenshot home" src=".\Screenshot 0 Dark.png" width="180"/>
 <img alt="Dark Mode Screenshot search" src=".\Screenshot 1 Dark.png" width="180"/>
-Light Mode
+
+### Light Mode
 <img alt="Light Mode Screenshot home" src=".\Screenshot 0 Light.png" width="180"/>
 <img alt="Light Mode Screenshot search" src=".\Screenshot 1 Light.png" width="180"/>
 
