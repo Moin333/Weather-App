@@ -12,7 +12,7 @@ class WeatherViewModel : ViewModel() {
     val errorMessage = MutableLiveData<String?>()
 
     init {
-        fetchWeather("Pune")  // Replace "Montreal" with your desired city
+        fetchWeather("Pune")
     }
 
     fun fetchWeather(city: String) {
